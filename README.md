@@ -18,15 +18,15 @@ Replicar páginas 1 e 2 apresentadas durante o curso utilizando a base de dados 
 
 - [X] Página 1: Relatório de Vendas Considerando Produtos e Segmento
 
-![Minha imagem](P1_Dashboard_Vendas_stvmmuniz_rev01)
+![Minha imagem](P1_Dashboard_Vendas_stvmmuniz_rev01.jpg)
 
 - [X] Página 2: Relatório de Vendas Considerando Países e Lucro
 
- ![Minha imagem](P2_Dashboard_Vendas_stvmmuniz_rev01)
+ ![Minha imagem](P2_Dashboard_Vendas_stvmmuniz_rev01.jpg)
  
  - [X] Página 3: Distribuição de Lucro, Vendas e Unidades vendidas por país e segmento
 
- ![Minha imagem](P3_Dashboard_Vendas_stvmmuniz_rev01)
+ ![Minha imagem](P3_Dashboard_Vendas_stvmmuniz_rev01.jpg)
  
  ## Arquivos:
  
