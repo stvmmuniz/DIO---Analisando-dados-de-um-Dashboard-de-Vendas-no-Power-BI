@@ -34,7 +34,7 @@ Replicar páginas 1 e 2 apresentadas durante o curso utilizando a base de dados 
  
  - [X] Relatório em Powerpoint com suplemento do Power BI: [Clique aqui para visualizar o arquivo.](Dashboard_Vendas_stvmmuniz_rev01.pptx)
  
- - [X] Relatório em PDF: [Clique aqui para visualizar o arquivo.](Dashboard_Vendas_stvmmuniz_rev01.pptx)
+ - [X] Relatório em PDF: [Clique aqui para visualizar o arquivo.](Dashboard_Vendas_stvmmuniz_rev01.pdf)
 
 
      
